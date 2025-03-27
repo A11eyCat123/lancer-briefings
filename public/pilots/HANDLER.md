@@ -31,7 +31,7 @@ landing zone, but is potentially a mine entrance/storage structure.  It is noted
 be less likely given your objective, but if either **Goth** or **Hoss** require reinforcements or additional 
 support **Handler’s** Lance will be expected to comply.  
 
-Be prepared to enact “C/SPK/HEAR NO EVIL” Protocols should the risk of exposure to “Equipment” become present 
+Be prepared to enact “C/SPK/H3R KN0 3V17” Protocols should the risk of exposure to “Equipment” become present 
 amongst uninitiated or pilots not yet given **TERMINUS** clearance. 
 
 It is worth noting that they have access to old-model mechs for patrols, ensuring “Equipment” is in-line, and 

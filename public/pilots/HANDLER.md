@@ -16,7 +16,7 @@ Investigations will be handled by the following Handlers
 
 * **Hoss**
 
-* **Handler**
+* **WAKE**
 
 * **Ozai** will have their Lance placed on standby after the **CORONA** incidient
 
@@ -26,10 +26,10 @@ interviews take precedence, divert any resources necessary to the completion of 
 **Hoss** Will take her Lance and make “equipment checks” including interviews if necessary, ensure that living 
 conditions are at standardized levels of cleanliness and maintenance.  Report any suspicious behaviour or findings 
 incongruent with standard practices for evaluation by command.
-**Handler** will take her Lance and do parameter checks as well as investigating what could be an unauthorized 
-landing zone, but is potentially a mine entrance/storage structure.  It is noted that as a rookie lance combat will
-be less likely given your objective, but if either **Goth** or **Hoss** require reinforcements or additional 
-support **Handler’s** Lance will be expected to comply.  
+**WAKE** will take her Lance and do parameter checks as well as investigating an as of now unknown structure that 
+we've had trouble identifying from orbit or records. It is noted that as a rookie lance combat will be less likely 
+given your objective, but if either **Goth** or **Hoss** require reinforcements or additional support **WAKE’s** 
+Lance will be expected to comply.  
 
 Be prepared to enact “C/SPK/H3R KN0 3V17” Protocols should the risk of exposure to “Equipment” become present 
 amongst uninitiated or pilots not yet given **TERMINUS** clearance. 

@@ -2,7 +2,7 @@
 
 Blue Lance = LEHR = GOTH
 
-Orange Lance = TEAM = HANDLER 
+Orange Lance = TEAM = WAKE 
 
 White Lance = TOTENKOPF = HOSS
 

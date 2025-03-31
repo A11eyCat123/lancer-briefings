@@ -8,10 +8,10 @@ Freebird
 Hacker and Resident Computer Specialist 
 
 ## Mech
-GMS Everest - EMMA
+GMS Chomolungma - Roccoa
 
 ## Primary Armament
-Multiple "NEXUS" class weapon points, Thermal Lance, and NHP assistant suite. 
+Multiple "NEXUS" class weapon points, Thermal Lance, and COMP/CON assistant suite. 
 
 ## Trivia
 

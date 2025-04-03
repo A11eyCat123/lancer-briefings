@@ -1,6 +1,6 @@
 ## * Handler's Eyes Only *
 
-## LANCE "TEAM" DEPLOYMENT BRIEF
+## LANCE "Rookies" DEPLOYMENT BRIEF
 
 **Schindler** Is the acting Executive Officer of the Keta 7.9 Mining facility. He is currently under investigation 
 for misuse of funds as well as misappropriation/theft of on-site mining materials and equipment.  After several tax 
@@ -16,7 +16,7 @@ Investigations will be handled by the following Handlers
 
 * **Hoss**
 
-* **WAKE**
+* **Wake**
 
 * **Ozai** will have their Lance placed on standby after the **CORONA** incidient
 
@@ -26,9 +26,9 @@ interviews take precedence, divert any resources necessary to the completion of 
 **Hoss** Will take her Lance and make “equipment checks” including interviews if necessary, ensure that living 
 conditions are at standardized levels of cleanliness and maintenance.  Report any suspicious behaviour or findings 
 incongruent with standard practices for evaluation by command.
-**WAKE** will take her Lance and do parameter checks as well as investigating an as of now unknown structure that 
-we've had trouble identifying from orbit or records. It is noted that as a rookie lance combat will be less likely 
-given your objective, but if either **Goth** or **Hoss** require reinforcements or additional support **WAKE’s** 
+**Wake** will take her Lance and do parameter checks as well as investigating an as of now unknown structure that 
+we've had trouble identifying from orbit or records. It is noted that as a fresh lance combat will be less likely 
+given your objective, but if either **Goth** or **Hoss** require reinforcements or additional support **Wake’s** 
 Lance will be expected to comply.  
 
 Be prepared to enact “C/SPK/H3R KN0 3V17” Protocols should the risk of exposure to “Equipment” become present 

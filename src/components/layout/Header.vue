@@ -28,7 +28,7 @@
           <span class="subtitle">{{ header.year }}</span>
         </div>
       </div>
-      <div class="location-row" id="system-gate-ring">
+      <div class="location-row" id="system-lance-ring">
         <div id="system">
           <h4>System</h4>
           <span class="subtitle">{{ header.system }}</span>

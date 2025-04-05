@@ -161,7 +161,7 @@ export default {
         "planet": "Keta 7.9",
         "year": "6019u",
         "system": "Teuflisch",
-        "gate": "ROOKIES",
+        "lance": "ROOKIES",
         "ring": "Atriedies-Line",
         "headerTitle": "Teuflisch",
         "headerSubtitle": "Special Operations",

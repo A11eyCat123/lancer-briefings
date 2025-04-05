@@ -33,9 +33,9 @@
           <h4>System</h4>
           <span class="subtitle">{{ header.system }}</span>
         </div>
-        <div id="gate">
-          <h4>Gate</h4>
-          <span class="subtitle">{{ header.gate }}</span>
+        <div id="lance">
+          <h4>Lance</h4>
+          <span class="subtitle">{{ header.lance }}</span>
         </div>
         <div id="ring">
           <h4>Ring</h4>

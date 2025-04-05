@@ -133,12 +133,12 @@ export default {
           "mech": "Passionate_But_Powerless"
         },
         {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "callsign": "FALCONEER",
+          "alias": 'Wei Sen Colello',
+          "code": "a1b689d6-bf70-48ff-8d12-c479428b8903//NDL-C-HUNTER'S-ORBIT//5025-04-05T19:36:27.327Z",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Rio Bravo"
+          "mech": "Skirmisher"
         },
         {
           "callsign": "Map",

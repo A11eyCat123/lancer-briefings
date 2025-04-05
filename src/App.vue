@@ -101,12 +101,12 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Pilot 1",
-          "alias": "CQB",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "callsign": "CLOVER",
+          "alias": "Adam Luckhardt",
+          "code": "682e6e6c-d59b-47cc-a8a4-8c9e398b641b//NDL-C-SATELLITE-DECEMBER//5025-04-05T01:36:26.364Z",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "The Bear"
+          "mech": "Cyberpositive"
         },
         {
           "callsign": "FREEBIRD",

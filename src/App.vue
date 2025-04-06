@@ -162,7 +162,7 @@ export default {
           "code": "0faab1fe-945f-4797-a661-53c1c1fc9acf//NDL-C-LIGHT-CRYSTAL//5025-04-06T21:47:06.504Z",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "BIG VIN"
+          "mech": "BIG_VIN"
         },
       ],
       "header": {

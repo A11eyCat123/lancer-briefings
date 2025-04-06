@@ -141,6 +141,14 @@ export default {
           "mech": "Skirmisher"
         },
         {
+          "callsign": "INDOMITUS",
+          "alias": "Vinnie",
+          "code": "0faab1fe-945f-4797-a661-53c1c1fc9acf//NDL-C-LIGHT-CRYSTAL//5025-04-06T21:47:06.504Z",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "BIG_VIN"
+        },
+        {
           "callsign": "Map",
           "alias": 'Keta 7.9 Mining',
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
@@ -148,21 +156,13 @@ export default {
           "frame": "Everest",
           "mech": "Rio Bravo"
         },
-         {
+        {
           "callsign": "HANDLER",
           "alias": "M17C",
           "code": "REDACTED-IMOLATECLEARENCEGIVENATCONFLICT279-111",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "The Bear"
-        },
-         {
-          "callsign": "INDOMITUS",
-          "alias": "Vinnie",
-          "code": "0faab1fe-945f-4797-a661-53c1c1fc9acf//NDL-C-LIGHT-CRYSTAL//5025-04-06T21:47:06.504Z",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "BIG_VIN"
         },
       ],
       "header": {

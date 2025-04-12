@@ -11,6 +11,19 @@
 	</div>
 </template>
 
+<template>
+	<div class="mission" :class="[{ active: isActive }, this.mission.status]">
+		<div class="name">
+			<h1>Mission // {{ mission.slug }}</h1>
+			<h2>Deliver Schindler and Info-Disks</h2>
+		</div>
+		<div class="status" :class="this.mission.status">
+			start
+			<img :src="icon" />
+		</div>
+	</div>
+</template>
+
 <script>
 export default {
 	components: {

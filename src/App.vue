@@ -96,7 +96,7 @@ export default {
         {
           "slug": "001",
           "name": "INVESTIGATE",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "002",

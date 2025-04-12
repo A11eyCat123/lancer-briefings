@@ -96,12 +96,12 @@ export default {
         {
           "slug": "001",
           "name": "INVESTIGATE",
-          "status": "success"
+          "status": "start"
         },
         {
           "slug": "002",
           "name": "DELIVERY",
-          "status": "START"
+          "status": "start"
         },
       ],
       "pilots": [

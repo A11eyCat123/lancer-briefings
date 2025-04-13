@@ -7,6 +7,9 @@ FALCONER
 ## Role
 Caretaker and Moral support
 
+## Official Recognition
+Prima Crimen Award from the Keta 7.9 Conflict
+
 ## Mech
 GMS Everest - Skirmisher
 

@@ -7,6 +7,9 @@ Thermostat
 ## Role
 Heavy Weapons and reading the temperature of a situation 
 
+## Official Recognition
+First Blood Achievement from the Keta 7.9 Conflict
+
 ## Mech
 GMS Everest - WASTE MANAGEMENT
 

@@ -81,7 +81,7 @@ ALPHA** before exfill will become impossible for 6 weeks.
 
 **BRIEFING B** 
 
-- **SCHINDLER'S** information and electronic data have been stored in a digital safe-box known as an **ICEBOX**,
+- **SCHINDLER'S** information and electronic data have been stored in a digital safe known as an **ICEBOX**,
 it will confine and restrain any signals ensuring the digital footprint remains isolated. This **ICEBOX** must be
 taken to the digital-repository facility located at **POINT CHARLIE** where it can be stored, processed, and
 disposed of safely.  Of course, after any useful information for the destruction of the criminal syndicate known

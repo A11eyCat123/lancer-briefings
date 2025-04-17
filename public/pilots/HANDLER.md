@@ -23,7 +23,7 @@ interrogators from **SOMEGUYS** and his sensitive information on the criminal sy
 be stored and processed without worry of compromise or leak.
 
 ## Achievements to be given out
--**FREEBIRD** is the recipient of the Piratica Maximus award for daring and field-wide electronic warfare
+-**FREEBIRD** is the recipient of the Piratica Maximus award for decisive and field-wide electronic warfare
 
 -**FALCONER** is the recipient of the Prima Crimen for incredible bravery and the bold capture of **SCHINDLER**
 

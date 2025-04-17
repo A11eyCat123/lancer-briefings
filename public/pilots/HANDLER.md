@@ -19,12 +19,14 @@ to be sent on **SEARCH AND DESTROY** tasks.
 
 **OZAI** and **WAKE** will be dispatched immediately to the prison and data-repository stations located at 
 **CENSORED FOR SECURITY PURPOSES COURTESY OF SOMEGUYS :)** where **SCHINDLER** will be processed by several 
-interrigators from **SOMEGUYS** and his sensitive information on the criminal syndicate **BLACK KNIGHTS** will
+interrogators from **SOMEGUYS** and his sensitive information on the criminal syndicate **BLACK KNIGHTS** will
 be stored and processed without worry of compromise or leak.
 
 ## Achievements to be given out
 -**FREEBIRD** is the recipient of the Piratica Maximus award for daring and field-wide electronic warfare
+
 -**FALCONER** is the recipient of the Prima Crimen for incredible bravery and the bold capture of **SCHINDLER**
+
 -**THERMOSTAT** is the recipient of the First Blood Achievement for the first confirmed downed enemy mech frame
 
 CONGRATS TO ALL PARTICIPENTS SAYDUND OLL LANCERS
@@ -45,7 +47,7 @@ incident, but further mistakes will lead to Internal Investigation and potential
 -**FREEBIRD** disable their safety protocals briefly after a major impact from an unknown projectile. Please 
 determine is this was intentional or a result of the damage sustained by the hit. Follow up with clandestine 
 **DETERMINATION** procedures and find out if **FREEBIRD** has been compromised or requires further analysis 
-from **SOMEGUYS** interrigators.
+from **SOMEGUYS** interrogators.
 
 -**THERMOSTAT** Personal Note
 
@@ -53,8 +55,9 @@ from **SOMEGUYS** interrigators.
 ## LANCE "ROOKIES" DEPLOYMENT BRIEF
 
 TWO LANCES WILL BE DEOPLOYED ONTO SURFACE OF PLANET, TO ESCORT PRISONER **SCHINDLER** AS WELL AS HIS DIGITAL 
-FOOTPRINT AND FILES TO THEIR RESPECTIVE FACILITIES. 
-Note, this planet's particular atmosphere and environmental conditions are incredibly harsh and difficult.  
+FOOTPRINT AND FILES TO THEIR RESPECTIVE FACILITIES.
+
+Of note, this planet's particular atmosphere and environmental conditions are incredibly harsh and difficult.  
 This is ideal given what the Tueflisch empire utilizes the planet for, however, these phenomena mean we have 
 a limited window for deploying, and retrieving teams.  Priority of this mission is above **PRIORITY ALPHA-1** 
 and we can waste no time in getting the information we can from **SCHINDLER** and his digital assets, once 

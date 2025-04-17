@@ -1,49 +1,93 @@
 ## * Handler's Eyes Only *
 
+
+## KETA 7.9 CONFLICT DEBRIEF - CODE BRAVO CHARLIE ZULU ZULU 9 - ROOKIES
+
+**SCHINDLER'S** capture is a momentous achievement, and the Council has determined the **Keta 7.9 Conflict** a 
+resounding success, excellent work Handlers and Lance teams.  Of particular note the actions committed by the 
+**ROOKIES** will be rewarded and the Council recognizes their achievements in the field, appropriate medals will
+be dispatched by command and **WAKE** is to give them out to their recipients during Debrief.  Please pass on 
+congratulations to all participents.
+
+**ROOKIES** Lancer teams and their Handlers will be left at the Keta 7.9 Mining facility to root out any other 
+criminal elements and to track down the pilots who escaped justice on the battlefield. The following teams are 
+to be sent on **SEARCH AND DESTROY** tasks.  
+
+- **GOTH** leading **TOTENKOMPF**
+ 
+- **HOSS** leading **LEHR**
+
+**OZAI** and **WAKE** will be dispatched immediately to the prison and data-repository stations located at 
+**CENSORED FOR SECURITY PURPOSES COURTESY OF SOMEGUYS :)** where **SCHINDLER** will be processed by several 
+interrigators from **SOMEGUYS** and his sensitive information on the criminal syndicate **BLACK KNIGHTS** will
+be stored and processed without worry of compromise or leak.
+
+## Achievements to be given out
+-**FREEBIRD** is the recipient of the Piratica Maximus award for daring and field-wide electronic warfare
+-**FALCONER** is the recipient of the Prima Crimen for incredible bravery and the bold capture of **SCHINDLER**
+-**THERMOSTAT** is the recipient of the First Blood Achievement for the first confirmed downed enemy mech frame
+
+CONGRATS TO ALL PARTICIPENTS SAYDUND OLL LANCERS
+
+
+**WAKE** please have discussions with the following **ROOKIES** 
+
+-Introduce **INDOMITUS** to the rest of the Lance, as he will be joining the **ROOKIES** from this point moving
+forward, he was held back a year due to an issue with his foreign language credit, but he has completed the 
+make-up course and is an official graduate of Grendal Military Academy. Given his history with the **ROOKIES**
+as a senior student it has been deemed appropriate to place him in their Lance. Dismiss all except the following
+three Lancers.
+
+-**POPPY** please question on his decision to "test gravitation well using enemy mech with pilot inside leading
+to the escape of confirmed criminal **DOUG FREDRICKS**. Reinforce that this will be treated as an isolated 
+incident, but further mistakes will lead to Internal Investigation and potential demotion
+
+-**FREEBIRD** disable their safety protocals briefly after a major impact from an unknown projectile. Please 
+determine is this was intentional or a result of the damage sustained by the hit. Follow up with clandestine 
+**DETERMINATION** procedures and find out if **FREEBIRD** has been compromised or requires further analysis 
+from **SOMEGUYS** interrigators.
+
+-**THERMOSTAT** Personal Note
+
+
 ## LANCE "ROOKIES" DEPLOYMENT BRIEF
 
-**Schindler** Is the acting Executive Officer of the Keta 7.9 Mining facility. He is currently under investigation 
-for misuse of funds as well as misappropriation/theft of on-site mining materials and equipment.  After several tax 
-forms were flagged for internal review and further investigation, findings are consistent with writing off equipment 
-well before its expiration and showing “Malfunctions” to be disproportionate to Imperial standards at other similar 
-mining operations. This could be could be do to the harsh conditions and strain put upon the “equipment” due to 
-Keta 7.9s atmosphere and the properties of the mined ore’s as their interaction with biological respiratory systems 
-is largely untested. However, it is well within reason it could be for more nefarious purposes.  
+TWO LANCES WILL BE DEOPLOYED ONTO SURFACE OF PLANET, TO ESCORT PRISONER **SCHINDLER** AS WELL AS HIS DIGITAL 
+FOOTPRINT AND FILES TO THEIR RESPECTIVE FACILITIES. 
+Note, this planet's particular atmosphere and environmental conditions are incredibly harsh and difficult.  
+This is ideal given what the Tueflisch empire utilizes the planet for, however, these phenomena mean we have 
+a limited window for deploying, and retrieving teams.  Priority of this mission is above **PRIORITY ALPHA-1** 
+and we can waste no time in getting the information we can from **SCHINDLER** and his digital assets, once 
+you arrive on planet you will have a **5-DAY** operational window. Although the environment is hostile, there 
+is numerous forms of wildlife, these are also incredibly hostile and dangerous to both humans as well as mech 
+frames. Interference with electronics and signals are to be expected given weather conditions, please be 
+prepared for this.  Personel on the surface of the planet will give further details as to safety and security
+protocols while on site. The rest of this briefing will be broken into two sections, section **A** will be in 
+regards to **SCHINDLER** and **B** will cover his digital assets. Regardless, both teams will be expected to 
+complete their objectives in the **5-DAY** timeframe, and will be disciplined and recieve dimerits on failure
+to abide by this operational window. 
 
-Investigations will be handled by the following Handlers
+**BRIEFING A** 
 
-* **Goth**
+- **SCHINDLER** will be escorted to the prison facility on planet's surface.  He must reach prison alive for
+questioning by **SOMEGUYS** and permanent incarceration. Prison facility is designated on map as **POINT 
+BRAVO** the team who escorts **SCHINDLER** will land at **POINT ALPHA** then follow the route indicated stopping
+at the Automated Guard and Rest Station. Following the route shown on the map, it will take an estimated 1 day
+to arrive at the Station, and 1 more to arrive at the prison, then you will have 3 days to return to **POINT
+ALPHA** before exfill will become impossible for 6 weeks.
 
-* **Hoss**
+**BRIEFING B** 
 
-* **Wake**
-
-* **Ozai** will have their Lance placed on standby after the **CORONA** incidient
-
-
-**Goth’s** Lance will take on interviewing on-site staff, as well as **Schindler** and his security team. These 
-interviews take precedence, divert any resources necessary to the completion of this task.
-**Hoss** Will take her Lance and make “equipment checks” including interviews if necessary, ensure that living 
-conditions are at standardized levels of cleanliness and maintenance.  Report any suspicious behaviour or findings 
-incongruent with standard practices for evaluation by command.
-**Wake** will take her Lance and do parameter checks as well as investigating an as of now unknown structure that 
-we've had trouble identifying from orbit or records. It is noted that, as a fresh lance, their objective mean combat
-will be less likely, but if either **Goth** or **Hoss** require reinforcements or additional support **Wake’s** 
-Lance will be expected to comply.  
-
-Be prepared to enact “C/SPK/H3R KN0 3V17” Protocols should the risk of exposure to “Equipment” become present 
-amongst uninitiated or pilots not yet given **TERMINUS** clearance. 
-
-It is worth noting that they have access to old-model mechs for patrols, ensuring “Equipment” is in-line, and 
-protection from piracy.  The base also has a number of weapon emplacements and vehicles equipped for heavy mining 
-that could be feasibly turned on personnel.  
-
-**Schindler** is noted as having a recreational hobby that involves restoring/modifying “classic” mech frames, it 
-is understood his security mechs may be older models, but are likely upgraded or “Fully-Loaded” and such 
-modifications are within lawful statures as a subsidiary branch of the Teuflisch military forces.
-
-
-
+- **SCHINDLER'S** information and electronic data have been stored in a digital safe-box known as an **ICEBOX**,
+it will confine and restrain any signals ensuring the digital footprint remains isolated. This **ICEBOX** must be
+taken to the digital-repository facility located at **POINT CHARLIE** where it can be stored, processed, and
+disposed of safely.  Of course, after any useful information for the destruction of the criminal syndicate known
+as the **BLACK KNIGHTS** is pulled.  The **ICEBOX** will need to be mounted into a mech frame at **POINT ALPHA**,
+but be aware, that the **ICEBOX** will generate a significant amount of additional **HEAT** in the mounted frame.
+The team responsible for taking the **ICEBOX** will follow the route highlighted on the map, stopping at the
+designated Automated Guard and Rest Station. It should take 1 day to arrive at the Station, and 1 more to arrive
+ at the data-repository.  After, you will have 3 days to return to **POINT ALPHA** for exfill or will be trapped
+on planet's surface for the next 6 weeks. 
 ...
 
 ...

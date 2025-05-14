@@ -11,6 +11,7 @@ and bold move we believe will reap incalcuable benefits. The Council recognizes 
 field from both this lauded hero of the Teuflisch Empire, as well as those under his authority on this action.  
 
 **ROOKIES** 
+
 The Lancer teams and their Handlers previously left at the Keta 7.9 Mining facility to root out potential threats
 have been recalled.  Due to a major malfunction with your current ships engines, life support, and various 
 other systems related to the HVAC, these reinforcements will be arriving with a newly liberated Forge-Class ship.
@@ -24,7 +25,7 @@ stationed aboard your current ship. **ADMIRAL ZHAU** will also be arriving at th
 travel on and off **CENSORED** as he is insisting on pulling as much data from related projects and similar
 research initiatives in the fields of AI and NHPs from the Data-Repository on surface.  He will have several agents
 from **S.O.M.E.G.U.Y.S** escorting him that may or may not accompany you further depending on the processing of 
-asset **SHINDLER** and **BOXER**. 
+assets **SHINDLER** and **BOXER**. 
 
 ## Achievements to be given out
 -**CLOVER** is the recipient of the Bestienjäger award for a stunning bravery and decisiveness in the face 

@@ -1,13 +1,13 @@
 ## * Handler's Eyes Only *
 
 
-## KETA 7.9 CONFLICT DEBRIEF - CODE BRAVO CHARLIE ZULU ZULU 9 - ROOKIES
+## ESCORT TO *CENSORED* DEBRIEF - CODE ALPHA 1 FOXTROT FOXTROT GOLF - ROOKIES
 
-**SCHINDLER'S** capture is a momentous achievement, and the Council has determined the **Keta 7.9 Conflict** a 
-resounding success, excellent work Handlers and Lance teams.  Of particular note the actions committed by the 
-**ROOKIES** will be rewarded and the Council recognizes their achievements in the field, appropriate medals will
-be dispatched by command and **WAKE** is to give them out to their recipients during Debrief.  Please pass on 
-congratulations to all participents.
+The successful tranfer of asset **SCHINDLER** to the designated prison facility located on **CENSORED** was a 
+spectacular achievement, excellent work Handlers and Lance teams.  Of particular note the actions and leadership
+demonstrated by **OZAI** in leading not one, but two seperate tasks to completion while combating wildlife, 
+insurgents, and various unforseen circumstances. The Council recognizes the various achievements in the field 
+from both this lauded hero of the Teuflisch Empire, as well as those under his authority on this action.  
 
 **ROOKIES** Lancer teams and their Handlers will be left at the Keta 7.9 Mining facility to root out any other 
 criminal elements and to track down the pilots who escaped justice on the battlefield. The following teams are 

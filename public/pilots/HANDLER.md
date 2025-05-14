@@ -10,6 +10,7 @@ insurgents, and various unforseen circumstances. His capture of the rogue Lancer
 and bold move we believe will reap incalcuable benefits. The Council recognizes the various achievements in the 
 field from both this lauded hero of the Teuflisch Empire, as well as those under his authority on this action.  
 
+
 **ROOKIES** 
 
 The Lancer teams and their Handlers previously left at the Keta 7.9 Mining facility to root out potential threats
@@ -41,7 +42,7 @@ CONGRATS TO ALL PARTICIPENTS SAYDUND OLL LANCERS
 
 **WAKE** please have discussions with the following **ROOKIES** 
 
--**POPPY** Congradulate on oustanding battlefield performance and 0 casualities, as well as the successful
+-**POPPY** Congratulate on oustanding battlefield performance and 0 casualities, as well as the successful
 escort of **SCHINDLER** to prison facility for interrogation. 
 
 -**FREEBIRD** and **THERMOSTAT** Personal Note

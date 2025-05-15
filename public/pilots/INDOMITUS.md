@@ -7,6 +7,9 @@ INDOMITUS
 ## Role
 Brawler and Protector
 
+## Official Recognition
+Commendation of Honor - Given by Ozai at the battle of **CENSORED**
+
 ## Mech
 GMS Everest - Big Vin
 

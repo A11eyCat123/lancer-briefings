@@ -9,6 +9,7 @@ Hacker and Resident Computer Specialist
 
 ## Official Recognition
 Piratica Maximus Award from the Keta 7.9 Conflict
+First Blood, achieved at **CENSORED**
 
 ## Mech
 GMS Chomolungma - Roccoa

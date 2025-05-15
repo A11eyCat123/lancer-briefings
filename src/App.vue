@@ -108,6 +108,11 @@ export default {
           "name": "ADMIRAL ZHAU",
           "status": "start"
         },
+        {
+          "slug": "003",
+          "name": "UNKNOWN",
+          "status": "start"
+        },
       ],
       "pilots": [
         {

@@ -101,6 +101,11 @@ export default {
         {
           "slug": "002",
           "name": "DELIVERY",
+          "status": "success"
+        },
+        {
+          "slug": "003",
+          "name": "ADMIRAL ZHAU",
           "status": "start"
         },
       ],

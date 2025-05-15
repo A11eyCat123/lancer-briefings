@@ -7,13 +7,16 @@ CLOVER
 ## Role
 Duelist and Propaganda 
 
+## Official Recognition
+Bestienjäger Award from battle at **CENSORED**
+
 ## Mech
 GMS Everest - Cyberpositive
 
 ## Primary Armament
 Heavy Charged Blade, Shotgun, and multiple small arms
 
-Bestienjäger
+
 ## Trivia
 
 * Big Celebrity and the most publicly known/beloved member of the ROOKIES

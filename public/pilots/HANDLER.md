@@ -37,6 +37,9 @@ of deadly wildlife
 -**INDOMITUS** on the recomendation of **OZAI**, will recieve the Commendation of Honor for "dauntless support
 and effort"
 
+-As a reminder, upon completion of their 3rd assignment, a Lance is enabled to choose their own Lance name and are
+given a greater lattitude in customization and coloration of their mech frames
+
 CONGRATS TO ALL PARTICIPENTS SAYDUND OLL LANCERS
 
 
